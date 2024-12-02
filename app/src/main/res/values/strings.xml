@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="splash_image">Logo</string>
+    <string name="food_list_title">List Food</string>
+    <string name="name_label">Nama:</string>
+    <string name="email_label">Email:</string>
+    <string name="share_prompt">Share via</string>
+    <string name="about_page">Halaman About</string>
+    <string name="share_button" />
+    <item name="card_view" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="about_icon" type="id" />
+    <string name="linkedin_url">https://www.linkedin.com/in/your-profile</string>
+
+</resources>
